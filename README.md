@@ -1,7 +1,7 @@
 # Bite: Food and Recipe Manager
 Android application to help users keep track of ingredients they have in stock and recipes they can use with these ingredients.
 ## Project Details
-- CS-102 course project
+- CS-102 **(Algorithms and Programming II)** course project
 - 5-person team
 - From January to March 2016
 ## My contributions:
